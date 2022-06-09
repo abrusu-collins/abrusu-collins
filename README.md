@@ -1,6 +1,7 @@
 ### Hi there 👋
 <hr>
-<h3>Serious Projects are starred.</h3>
+<h3>My serious Projects are the starred repositories.</h3>
+<h3>The rest are just me learning or unserious/unfinished projects.</h3>
 
 <!--
 **abrusu-collins/abrusu-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
