@@ -1,5 +1,6 @@
 ### Hi there 👋
 <hr>
+<h3>Serious Projects are pinned.</h3>
 
 <!--
 **abrusu-collins/abrusu-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
