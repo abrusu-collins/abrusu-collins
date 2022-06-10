@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-<h3>My serious Projectsin a list called Serious Projects.</h3>
+<h3>My serious Projects are in a list called Serious Projects.</h3>
 <h3>Got to my stars, the list is on top of my starred repositories</h3>
 
 <!--
