@@ -5,12 +5,12 @@ I'm called Collins Abrusu.
   
 I am a Front End Engineer based in Accra, Ghana.
 
-I love developing softwares that run in your browser and I also love
+I love developing softwares that run in your browser and I also love <br>
   writing clean, effficient and elegant code.
 
 I have been on this journey since 2018 and I love how it's going.
 
-`I'm currently job hunting`, I work well with persons of different backgrounds 
+`I'm currently job hunting`, I work well with persons of different backgrounds <br>
 and personalities in both remote and physical work environments.
 
 Kindly send me an email( snillochemingson@gmail.com) if you have any open roles for me. 
