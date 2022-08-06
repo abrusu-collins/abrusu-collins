@@ -13,7 +13,7 @@ I have been on this journey since 2018 and I love how it's going.
 `I'm currently job hunting`, I work well with persons of different backgrounds 
 and personalities in both remote and physical work environments.
 
-Kindly send me an email if you have any open roles for me. 
+Kindly send me an email( snillochemingson@gmail.com) if you have any open roles for me. 
   
 </div.
   
