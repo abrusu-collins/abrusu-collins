@@ -15,7 +15,7 @@ and personalities in both remote and physical work environments.
 
 Kindly send me an email( snillochemingson@gmail.com) if you have any open roles for me. 
   
-</div.
+</div>
   
   <h1>My Skills</h1>
  1. HTML <br>
