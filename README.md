@@ -27,7 +27,7 @@ Kindly send me an email( snillochemingson@gmail.com) if you have any open roles 
  7. Redux
 
 <h1> Portfolio Website</h1>
-https://devsdem.netlify.app
+https://devsedem.netlify.app
 <!--
 **abrusu-collins/abrusu-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
