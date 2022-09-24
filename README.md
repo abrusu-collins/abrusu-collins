@@ -1,4 +1,4 @@
-<h1> Hi there 👋 </h1>
+<!-- <h1> Hi there 👋 </h1>
 <div>
   
 I'm called Collins Abrusu.
@@ -28,7 +28,7 @@ Kindly send me an email( snillochemingson@gmail.com) if you have any open roles 
 
 <h1> Portfolio Website</h1>
 https://devsedem.netlify.app
-<!--
+
 **abrusu-collins/abrusu-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
